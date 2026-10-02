@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Love+Ya+Like+A+Sister&family=Pixelify+Sans:wght@400..700&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap");
+
+:root {
+  --bg: #f8f6f1;
+  --text: #202124;
+  --text-muted: #6f6b64;
+  --surface: #ffffff;
+  --primary-accent: #ff5a5f;
+  --secondary-accent: #4f7cac;
+  --highlight: #f4c95d;
+  --border: #e6e1d8;
+  --heading: "Caveat";
+  --mono: "DM Sans";
+}
